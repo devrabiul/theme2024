@@ -1,5 +1,5 @@
 # Theme - 2024
-![Logo](https://raw.githubusercontent.com/rixetbd/HiHr/main/human-resource-banner.jpg)
+![Logo](https://raw.githubusercontent.com/devrabiul/theme2024/main/assets/img/screenshot.png)
 
 Html Template.
 
