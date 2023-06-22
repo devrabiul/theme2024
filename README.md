@@ -1,14 +1,15 @@
 # Theme - 2024
-![Logo](https://raw.githubusercontent.com/rixetbd/HiHr/main/human-resource-banner.jpg)
+![Logo](https://raw.githubusercontent.com/devrabiul/theme2024/main/assets/img/screenshot.png)
 
 Html Template.
 
-Each module performs a separate function within the HRMS that helps with information gathering or tracking. HRMS modules can assist with:
-1. Products Management
-2. Leave Management
-3. Attendance Management
-4. Team Management
-5. Asset/Resource Management 
+Pages List:
+1. Homepage
+2. Shop Page
+3. About Page
+4. Blog Page
+5. Customer Profile
+6. Contact Page
 
 ## Requirement
 
@@ -31,9 +32,6 @@ Theme 2024 ....... 150 Words
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![PHP7](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![LARAVEL](https://img.shields.io/badge/LARAVEL-F05340?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Favorite IDEs/Editors 
 
