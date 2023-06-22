@@ -26,6 +26,7 @@
 
     <!-- Theme CSS - Start -->
     <link rel="stylesheet" href="./assets/css/header.css">
+    <link rel="stylesheet" href="./assets/css/modal.css">
     <link rel="stylesheet" href="./assets/css/footer.css">
     <link rel="stylesheet" href="./assets/css/basic.css">
     <link rel="stylesheet" href="./assets/css/main.css">
@@ -723,7 +724,7 @@
 
 
     <section class="mb-5">
-        <div class="container">
+        <div class="container px-0">
             <div class="row g-2">
                 <div class="col-md-6 banner-card-small m-0">
                     <div class="border-dark height-100 banner-card-1"
@@ -862,7 +863,7 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-xl-2 col-6 col-md-3">
+                <div class="col-xl-2 col-6 col-md-3 pb-4">
                     <div class="links-list">
                         <h6 class="title">Quick Links</h6>
                         <ul>
@@ -890,7 +891,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-xl-2 col-6 col-md-3">
+                <div class="col-xl-2 col-6 col-md-3 pb-4">
                     <div class="links-list">
                         <h6 class="title">Accounts</h6>
                         <ul>
@@ -915,7 +916,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-xl-2 col-6 col-md-3">
+                <div class="col-xl-2 col-6 col-md-3 pb-4">
                     <div class="links-list">
                         <h6 class="title">Quick Links</h6>
                         <ul>
@@ -943,7 +944,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-xl-2 col-6 col-md-3">
+                <div class="col-xl-2 col-6 col-md-3 pb-4">
                     <div class="links-list">
                         <h6 class="title">Policy Pages</h6>
                         <ul>
@@ -1010,6 +1011,27 @@
     <!-- Footer Section -->
 
     <button id="goToTopButton"><i class="fa-solid fa-angle-up"></i></button>
+
+    <!--Initial modal popup start-->
+    <div class="modal fade bd-example-modal-lg blackfriday-modal theme-modal" id="initialModal" tabindex="-1" role="dialog"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content ">
+            <div class="modal-body">
+                <button type="button" class="btn-close focus-no-shadow" data-bs-dismiss="modal" aria-label="Close"></button>
+                <div class="rainbow">
+                    <span></span>
+                    <span></span>
+                </div>
+                <div class="offer-content ">
+                    <img src="./assets/img/placeholder/placeholder_4-1.png" class="img-fluid bg-img" alt=""
+                    onerror="this.src='./assets/img/placeholder/placeholder_4-1.png'">
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+    <!--Initial Modal popup end-->
 
 
     <!-- ========================== -->
